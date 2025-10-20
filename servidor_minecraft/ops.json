@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "edddb4c8-3583-3cf3-ab76-360ea10e688e",
+    "name": "paposoteperu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b69a03ca-1e77-34ea-a4b5-128fbe9d5454",
+    "name": "farfadox",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e6135a83-d680-39d6-b4be-65a3d8bb97ad",
+    "name": "Dream",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3c897609-d30e-38da-a8f1-204d8ed9a06f",
+    "name": "SpreenDMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
